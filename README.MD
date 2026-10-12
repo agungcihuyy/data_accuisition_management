@@ -1,4 +1,4 @@
-readme = """# Proyek Akuisisi dan Manajemen Data
+# Proyek Akuisisi dan Manajemen Data
 
 Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
 Nama        : I Gusti Lanang Agung Wahyu Pandu Rangga
