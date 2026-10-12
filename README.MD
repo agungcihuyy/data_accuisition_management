@@ -1,9 +1,9 @@
 # Proyek Akuisisi dan Manajemen Data
 
--Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
--Nama        : I Gusti Lanang Agung Wahyu Pandu Rangga
--NIM         : 2501010026
--Tujuan      : Persiapan awal tentang envirotment dan struktur awal data acquisition
+- **Mata Kuliah** : BIFP-243 Akuisisi dan Manajemen Data
+- **Nama** : I Gusti Lanang Agung Wahyu Pandu Rangga
+- **NIM** : 2501010026
+- **Tujuan** : Persiapan awal environment dan struktur proyek untuk data acquisition
 
 ## Struktur Folder
 - data/raw       : Data mentah hasil akuisisi (READ-ONLY)
